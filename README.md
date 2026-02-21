@@ -1,4 +1,4 @@
-# Assignment 3: Secure RAG System
+# Secure RAG System
 
 This project implements a production-ready RAG (Retrieval-Augmented Generation) system for Nova Scotia driving rules, incorporating security layers, prompt injection defenses, and quality evaluation.
 
